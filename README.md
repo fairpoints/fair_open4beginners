@@ -11,6 +11,8 @@ Future generations of scientists will benefit from the early introduction of Ope
 Introducing these concepts to the public can also help demystify the research process, allay public fears about data misuse through inappropriate sharing, and educate and inform the public about what it really means to work openly and reproducibly.
 It can also be used to persuade the public to support ongoing efforts for Open and FAIR research in order to get the most out of taxpayer funds and garner more interest in participation in citizen science projects.
 
+[](https://github.com/fairpoints/fair_open4beginners/blob/df885ed2282e9a4397ad4e5cc71ceb729339e918/img/FAIR4Beginners.jpg)
+
 ## What we want to do
 We call for the inclusion of Open and FAIR principles at earlier time points, e.g. in the school curriculum for young adults at school and undergraduate students. Together with the Edinburgh ReproducibiliTea community, we would like to develop training materials for that purpose.
 The training material should encourage students to reflect on more general values such as transparency and openness in research,  and motivate them to conduct methodologically sound research, avoiding the pitfalls associated with a lack of transparency and reproducibility.
