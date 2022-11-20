@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-Please indicate the following:
 - This is a :
 a) Question
 b) Answer
