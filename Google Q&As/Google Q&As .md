@@ -1,4 +1,4 @@
-# Google Q&As 
+# Google Q&As notes
 ### Contributors
 Donny Winston, Lisanna Paladin, David Butcher, Sara El-Gebali, wider FAIR & Open commmuntity
 
