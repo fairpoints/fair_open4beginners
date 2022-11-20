@@ -20,6 +20,8 @@ This is a community led effort towards developing training material, which is su
 ### Google Educational Cards:
 Collect Q&A to create Google Educational Q&A Flash cards, see example The cards should answer very basic concepts about FAIR principles and Open practices.
 
+![Google Q&A](https://github.com/fairpoints/fair_open4beginners/blob/f3bd9895707796e5a315254718f709ac44c1abcc/img/google_Q_As.png)
+
 ### Presentation slides for trainers:
 Slides with script that can be used by teachers and those delivering training.
 
