@@ -10,6 +10,6 @@
 --
 - Identify research outputs
 - Explain what Open science means
-- Discuss the importance of Open science practices 
-- Identify benefits of Open science practices (applicable to their work)
+- Discuss the importance of Open science practices in general
+- Identify benefits of Open science practices and how it's related to their work
 - List habits of Open science practices (applicable to their work)
